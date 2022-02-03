@@ -1,10 +1,3 @@
----
-tags: [Help]
-title: Commit Message Guidelines
-created: '2021-12-31T02:29:03.335Z'
-modified: '2021-12-31T02:29:48.441Z'
----
-
 # Commit Message Guidelines
 ```
 Short (72 chars or less) summary

@@ -1,10 +1,3 @@
----
-tags: [ESGI, TP]
-title: 'TP : Netflakes (Conception de Base de données)'
-created: '2022-01-03T17:21:00.950Z'
-modified: '2022-01-07T01:16:37.351Z'
----
-
 # TP : Netflakes (Conception de Base de données)
 
 

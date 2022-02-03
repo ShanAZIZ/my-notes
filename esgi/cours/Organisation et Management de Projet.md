@@ -1,11 +1,3 @@
----
-attachments: [pert.png]
-tags: [Cours, ESGI]
-title: Organisation et Management de Projet
-created: '2021-12-30T19:05:39.896Z'
-modified: '2022-01-05T09:01:48.736Z'
----
-
 # Organisation et Management de Projet
 
 ## 07/09/2021 

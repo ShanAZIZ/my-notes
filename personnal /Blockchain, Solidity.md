@@ -1,10 +1,3 @@
----
-tags: [Cours]
-title: 'Blockchain, Solidity'
-created: '2022-01-02T05:14:36.328Z'
-modified: '2022-01-08T13:24:32.186Z'
----
-
 # Blockchain, Solidity 
 
 ```

@@ -1,11 +1,3 @@
----
-attachments: [regex.png]
-tags: [Cours, ESGI]
-title: Théorie des langages et compilation
-created: '2021-12-30T18:54:07.879Z'
-modified: '2022-01-04T18:27:37.920Z'
----
-
 # Théorie des langages et compilation
 
 ## 07/09/2021 

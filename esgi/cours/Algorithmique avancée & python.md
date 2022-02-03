@@ -1,10 +1,3 @@
----
-tags: [Cours, ESGI]
-title: Algorithmique avancée & python
-created: '2021-12-31T02:14:52.663Z'
-modified: '2022-01-04T18:27:03.447Z'
----
-
 # Algorithmique avancée & python
 
 ## TRI PAR INSERTION

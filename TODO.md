@@ -1,12 +1,3 @@
----
-favorited: true
-pinned: true
-tags: [ESGI]
-title: TODO
-created: '2022-01-07T01:12:02.958Z'
-modified: '2022-01-20T01:28:43.810Z'
----
-
 # TODO
 
 ## Design Thinking
