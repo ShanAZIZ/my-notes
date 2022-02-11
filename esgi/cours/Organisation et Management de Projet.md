@@ -106,7 +106,7 @@ Inconvénient de travailler au plus tôt
 
 ## 03/11/2021 
 
-### LES RISQUES  
+### LES RISQUES  
 
 - Risque humain 
 - Risque économique 
@@ -133,7 +133,7 @@ Inconvénient de travailler au plus tôt
 - Risque de frein au changement (Client) 
 - Anticiper/ Former/ Donner du sens 
 
-### IDENTIFIER UN RISQUE, EVALUER LES RISQUES 
+### IDENTIFIER UN RISQUE, EVALUER LES RISQUES 
 
 C : Criticité 
 P : Probabilité 
