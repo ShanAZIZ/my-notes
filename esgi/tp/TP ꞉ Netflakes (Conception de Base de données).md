@@ -19,3 +19,4 @@ Enfin un système (optionnel sur choix de l'utilisateur) permettra l'envoi de pu
 
 
 
+![netflakes](../.././attachments//netflix.drawio.png)
