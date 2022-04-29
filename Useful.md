@@ -20,3 +20,7 @@
 - [Ionicons](https://ionic.io/ionicons)
 
 - [Vector](https://icones8.fr/)
+
+### Angular
+
+- [Form Jasmine to Jest](https://blog.ineat-group.com/2019/04/angular-remplacer-karma-jasmine-par-jest/)
