@@ -24,3 +24,9 @@
 ### Angular
 
 - [Form Jasmine to Jest](https://blog.ineat-group.com/2019/04/angular-remplacer-karma-jasmine-par-jest/)
+
+
+### Others
+
+- [ASCII ART GEN](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
+
